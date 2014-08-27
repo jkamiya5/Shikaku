@@ -13,3 +13,11 @@
 		<welcome-file>default.jsp</welcome-file>
 	</welcome-file-list>
 </web-app>
+<!-- <jsp-config>
+	<jsp-property-group>
+		<url-pattern>
+			/Sample6_6.jsp
+		</url-pattern>
+		<scripting-invalid>true</scripting-invalid>
+	</jsp-property-group>
+</jsp-config> -->
